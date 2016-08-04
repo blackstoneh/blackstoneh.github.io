@@ -4,9 +4,9 @@
   <subtitle>非典型程序猿</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blackstoneh.github.io/"/>
-  <updated>2016-08-04T07:25:55.747Z</updated>
-  <id>https://blackstoneh.github.io/</id>
+  <link href="http://blackstoneh.leileilove.cn/"/>
+  <updated>2016-08-04T09:15:36.712Z</updated>
+  <id>http://blackstoneh.leileilove.cn/</id>
   
   <author>
     <name>blackstoneh</name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>在Github创建博客流程</title>
-    <link href="https://blackstoneh.github.io/2016/08/04/%E5%9C%A8Github%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B/"/>
-    <id>https://blackstoneh.github.io/2016/08/04/在Github创建博客流程/</id>
+    <link href="http://blackstoneh.leileilove.cn/2016/08/04/%E5%9C%A8Github%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B/"/>
+    <id>http://blackstoneh.leileilove.cn/2016/08/04/在Github创建博客流程/</id>
     <published>2016-08-04T05:59:07.000Z</published>
-    <updated>2016-08-04T07:25:55.747Z</updated>
+    <updated>2016-08-04T09:15:36.712Z</updated>
     
     <content type="html"><![CDATA[<h1 id="&#x5728;Github&#x521B;&#x5EFA;blog&#x6D41;&#x7A0B;"><a href="#&#x5728;Github&#x521B;&#x5EFA;blog&#x6D41;&#x7A0B;" class="headerlink" title="&#x5728;Github&#x521B;&#x5EFA;blog&#x6D41;&#x7A0B;"></a>&#x5728;Github&#x521B;&#x5EFA;blog&#x6D41;&#x7A0B;</h1><hr>
 <p>&#x9996;&#x5148;&#x6211;&#x7684;&#x7CFB;&#x7EDF;&#x662F;win10&#x6216;win7&#xFF0C;&#x975E;&#x5178;&#x578B;&#x7A0B;&#x5E8F;&#x733F;&#x561B;&#xFF0C;&#x62B1;&#x7740;win&#x7684;&#x5927;&#x817F;&#x6DF7;&#x53E3;&#x996D;&#x5403;&#x5F97;&#x4E86;&#xFF0C;&#x4EC0;&#x4E48;Linux&#x3001;Unix&#x3002;&#x3002;&#x60F3;&#x7740;&#x90FD;&#x5934;&#x5927;&#xFF0C;&#x6700;&#x597D;&#x4EE5;&#x540E;&#x90FD;&#x7528;&#x4E0D;&#x5230;&#x624D;&#x597D;&#xFF0C;&#x4E0D;&#x8FC7;&#x8C01;&#x77E5;&#x9053;&#x5462;&#xFF0C;&#x7528;&#x5230;&#x7684;&#x65F6;&#x5019;&#x518D;&#x8BF4;&#x5427;&#xFF0C;&#x5C31;&#x597D;&#x50CF;gitub&#xFF0C;&#x611F;&#x5174;&#x8DA3;&#x4E86;&#x81EA;&#x7136;&#x5C31;&#x5F00;&#x59CB;&#x5B66;&#x4E86;~&#x563F;&#x563F;~<br>&#x4E0B;&#x9762;&#x662F;&#x6211;&#x7684;&#x6D41;&#x7A0B;<a id="more"></a></p>
@@ -77,6 +77,11 @@ hexo deploy
 </ul>
 <hr>
 <p>&#x5F53;&#x7136;&#xFF0C;&#x4E0A;&#x9762;&#x53EA;&#x662F;&#x6211;&#x90E8;&#x7F72;blog&#x7684;&#x5927;&#x81F4;&#x6D41;&#x7A0B;&#xFF0C;&#x7531;&#x4E8E;&#x662F;&#x90E8;&#x7F72;&#x5B8C;&#x6210;&#x540E;&#x6839;&#x636E;&#x5370;&#x8C61;&#x5199;&#x7684;&#xFF0C;&#x6240;&#x4EE5;&#x6709;&#x53EF;&#x80FD;&#x6709;&#x4E9B;&#x5730;&#x65B9;&#x4F1A;&#x6709;&#x4E9B;&#x95EE;&#x9898;&#xFF0C;&#x5982;&#x679C;&#x6709;&#x4EBA;&#x53D1;&#x73B0;&#x6216;&#x662F;&#x6709;&#x4E0D;&#x6E05;&#x695A;&#x7684;&#xFF0C;&#x7559;&#x8A00;&#x5427;&#x3002;&#x3002;&#x3002;<br>&#x53E6;&#x5916;&#xFF0C;&#x535A;&#x5BA2;&#x91CC;&#x8FD8;&#x53EF;&#x4EE5;&#x589E;&#x52A0;&#x8BC4;&#x8BBA;&#x3001;&#x641C;&#x7D22;&#x3001;rss&#x3001;&#x6253;&#x8D4F;&#x7B49;&#x63D2;&#x4EF6;&#xFF0C;&#x53EF;&#x4EE5;&#x7528;&#x5230;&#x7684;&#x65F6;&#x5019;&#x518D;&#x641C;&#x7D22;&#x76F8;&#x5173;&#x6587;&#x7AE0;&#xFF0C;&#x7F51;&#x4E0A;&#x4E5F;&#x591A;&#x7684;&#x662F;&#xFF0C;&#x6211;&#x5C31;&#x4E0D;&#x4ECB;&#x7ECD;&#x4E86;~<br>&#x5176;&#x5B9E;&#x8FD9;&#x7BC7;&#x6587;&#x7AE0;&#x505A;&#x7684;&#x6BD4;&#x8F83;&#x7C97;&#x7CD9;&#xFF0C;&#x672C;&#x6765;&#x4E5F;&#x4E0D;&#x662F;&#x4F5C;&#x4E3A;&#x6559;&#x5B66;&#x7528;&#x7684;&#xFF0C;&#x4E3B;&#x8981;&#x662F;&#x6015;&#x81EA;&#x5DF1;&#x5FD8;&#x4E86;&#xFF0C;&#x7ED9;&#x81EA;&#x5DF1;&#x7559;&#x4E2A;&#x5370;&#x8C61;&#xFF01;&#x4E0D;&#x8FC7;&#x73B0;&#x5728;&#x6280;&#x672F;&#x53D1;&#x5C55;&#x7684;&#x8FD9;&#x4E48;&#x5FEB;&#xFF0C;&#x4F30;&#x8BA1;&#x4E5F;&#x4E0D;&#x4E00;&#x5B9A;&#x7528;&#x7684;&#x4E0A;&#x4E86;&#xFF0C;&#x54C8;&#x54C8;</p>
+<hr>
+<p>&#x6700;&#x540E;&#x9644;&#x4E0A;&#x51E0;&#x7BC7;&#x53C2;&#x8003;&#x7684;&#x6587;&#x7AE0;&#xFF1A;</p>
+<blockquote>
+<p><a href="http://www.tuicool.com/articles/aQriym3" target="_blank" rel="external">Hexo+Next&#x642D;&#x5EFA;Github&#x4E2A;&#x4EBA;&#x9759;&#x6001;&#x535A;&#x5BA2;</a><br><a href="http://wiki.jikexueyuan.com/project/hexo-document/" target="_blank" rel="external">&#x6781;&#x5BA2;&#x5B66;&#x9662;-Hexo &#x4E2D;&#x6587;&#x7248;</a><br><a href="http://theme-next.iissnan.com/" target="_blank" rel="external">NexT &#x4F7F;&#x7528;&#x6587;&#x6863;</a><br><a href="http://www.jianshu.com/p/a2fe56d11c4f" target="_blank" rel="external">&#x642D;&#x5EFA;Hexo&#x535A;&#x5BA2;&#x4E2D;&#x78B0;&#x5230;&#x7684;&#x5751;</a></p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
@@ -86,25 +91,25 @@ hexo deploy
     
     </summary>
     
-      <category term="技术" scheme="https://blackstoneh.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://blackstoneh.leileilove.cn/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="非典型程序猿" scheme="https://blackstoneh.github.io/tags/%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%8C%BF/"/>
+      <category term="非典型程序猿" scheme="http://blackstoneh.leileilove.cn/tags/%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%8C%BF/"/>
     
-      <category term="github" scheme="https://blackstoneh.github.io/tags/github/"/>
+      <category term="github" scheme="http://blackstoneh.leileilove.cn/tags/github/"/>
     
-      <category term="hexo" scheme="https://blackstoneh.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="http://blackstoneh.leileilove.cn/tags/hexo/"/>
     
-      <category term="NexT" scheme="https://blackstoneh.github.io/tags/NexT/"/>
+      <category term="NexT" scheme="http://blackstoneh.leileilove.cn/tags/NexT/"/>
     
-      <category term="教程" scheme="https://blackstoneh.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="http://blackstoneh.leileilove.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>你好，github</title>
-    <link href="https://blackstoneh.github.io/2016/08/01/%E4%BD%A0%E5%A5%BD%EF%BC%8Cgithub/"/>
-    <id>https://blackstoneh.github.io/2016/08/01/你好，github/</id>
+    <link href="http://blackstoneh.leileilove.cn/2016/08/01/%E4%BD%A0%E5%A5%BD%EF%BC%8Cgithub/"/>
+    <id>http://blackstoneh.leileilove.cn/2016/08/01/你好，github/</id>
     <published>2016-08-01T04:40:46.000Z</published>
     <updated>2016-08-02T09:05:21.076Z</updated>
     
@@ -123,12 +128,12 @@ hexo deploy
     
     </summary>
     
-      <category term="随笔" scheme="https://blackstoneh.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://blackstoneh.leileilove.cn/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="非典型程序猿" scheme="https://blackstoneh.github.io/tags/%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%8C%BF/"/>
+      <category term="非典型程序猿" scheme="http://blackstoneh.leileilove.cn/tags/%E9%9D%9E%E5%85%B8%E5%9E%8B%E7%A8%8B%E5%BA%8F%E7%8C%BF/"/>
     
-      <category term="github" scheme="https://blackstoneh.github.io/tags/github/"/>
+      <category term="github" scheme="http://blackstoneh.leileilove.cn/tags/github/"/>
     
   </entry>
   
